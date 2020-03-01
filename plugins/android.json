@@ -1,0 +1,34 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.wwwq.clinictimeslots"
+    },
+    "cordova-plugin-buildinfo": {
+      "PACKAGE_NAME": "com.wwwq.clinictimeslots"
+    },
+    "cordova-universal-links-plugin": {
+      "PACKAGE_NAME": "com.wwwq.clinictimeslots"
+    },
+    "cordova-plugin-browsertab": {
+      "PACKAGE_NAME": "com.wwwq.clinictimeslots"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.wwwq.clinictimeslots"
+    },
+    "cordova-plugin-customurlscheme": {
+      "URL_SCHEME": "com.wwwq.clinictimeslots",
+      "ANDROID_SCHEME": " ",
+      "ANDROID_HOST": " ",
+      "ANDROID_PATHPREFIX": "/",
+      "PACKAGE_NAME": "com.wwwq.clinictimeslots"
+    }
+  },
+  "dependent_plugins": {}
+}
