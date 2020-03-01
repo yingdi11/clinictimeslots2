@@ -2,6 +2,7 @@ Below is the step to reproduce the issue
 1) Need to populate files in environments folder 
 2) ng build and replace below with www/index.html
 
+'''
 <!doctype html>
 <html lang="en">
 <head>
@@ -26,6 +27,7 @@ Below is the step to reproduce the issue
 <script src="main-es5.js" type="text/javascript" defer></script>
 </body>
 </html>
+'''
 
 
 3) cordova run android/ios
